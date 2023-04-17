@@ -147,7 +147,7 @@ button:hover{
   font-weight: 500;
 }
 .menu-main__list-item:hover::before{
-  content: url("/images/highlight.png");
+  content: url("../images/highlight.png");
   position: absolute;
   transform:translate(-24px,-10px);
 }
